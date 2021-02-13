@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ).
+You can find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ).
