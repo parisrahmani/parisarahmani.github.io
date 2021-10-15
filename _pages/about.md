@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software developer who enjoys working with parallel-processing platforms and programming models (such as MPI, OpenMP, and CUDA). I am skilled in various programming languages and frameworks like Java, C/C++, Pthreads, etc. (more in CV)
-- Right now I am a PhD student at [PPRL](https://www.queensu.ca/academia/afsahi/pprl/) (Parallel Processing Research Laboratory) Queen's University, and I am exploring various research areas, from performance optimization, especially with GPUs and other parallel architectures like MPI, to Distributed Deep Learning frameworks.
-- I also have an insatiable enthusiasm to work as a teacher, and right now I am struggling to find a way to combine my deep passion for education with my experience in computer science. 
+- As a Software Developer, work with big data and parallel-processing platforms and programming models (such as Apache Ignite) and have extensive knowledge in various programming languages and frameworks like Java, C/C++, CUDA, MPI, etc. (more in skills section)
+- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in exploring various research areas, ranging from performance optimization, particularly with CUDA and other parallel programming paradigms such as MPI, to Machine Learning and AI in general. 
+- Possess an insatiable enthusiasm to work as a teacher in academia, and look forward to combining my passion for education with my expertise in computer science.
