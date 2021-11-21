@@ -9,9 +9,9 @@ author_profile: true
 ## Instructor
 
 - 2016 Winter: Introduction to Object Oriented Programming with Java, Shiraz University, ICTC
-- 2013 Summer: Software Engineering, Undergraduate, Shiraz University
-- 2012 Winter: Software Engineering, Undergraduate, Shiraz University
-- 2012 Summer: Software Engineering, Undergraduate, Shiraz University
+- 2013 Summer: Software Engineering Lab, Undergraduate, Shiraz University
+- 2012 Winter: Software Engineering Lab, Undergraduate, Shiraz University
+- 2012 Summer: Software Engineering Lab, Undergraduate, Shiraz University
 
 ## Teaching Assistanships
 
