@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- As a Software Developer, work with big data and parallel-processing platforms and programming models (such as Apache Ignite) and have extensive knowledge in various programming languages and frameworks like Java, C/C++, CUDA, MPI, etc. (more in skills section)
-- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in exploring various research areas, ranging from performance optimization, particularly with CUDA and other parallel programming paradigms such as MPI, to Machine Learning and AI in general. 
+- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in working on various research areas mainly focused on performance optimizations in MPI library. More specifically, improving GPU-aware communications in CUDA-enabled MPI, for both _point-to-point_ and _collectives_ communications and _message matching_ engine.  
+- As a Software Developer, work with parallel-processing and big-data platforms and programming models (such as MPI and Apache Ignite) and have extensive knowledge in various programming languages and frameworks like  C/C++, Java, CUDA, OpenMP, etc.
 - Possess an insatiable enthusiasm to work as a teacher in academia, and look forward to combining my passion for education with my expertise in computer science.
 
 ## News
