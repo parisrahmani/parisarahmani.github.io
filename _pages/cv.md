@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume-Summary.pdf).
-
-My extended CV can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume-Extended.pdf).
+My CV can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume-Summary.pdf), and its fully extended version from [there](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume-Extended.pdf). (I don't believe you may need the extended version. That's just for myself to keep track of my life, and whoever that is interested.)
