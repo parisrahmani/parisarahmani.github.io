@@ -13,7 +13,7 @@ author_profile: true
 - 2012 Winter: Software Engineering Lab, Undergraduate, Shiraz University
 - 2012 Summer: Software Engineering Lab, Undergraduate, Shiraz University
 
-## Teaching Assistanships
+## Teaching Assistantships
 
 - 2021 Fall: ELEC278 - Fundamentals of Information Structure, Undergraduate, Queen’s University, by Dr. Amr Elwakeel
 - 2021 Winter: ELEC374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Sean Whitehall
