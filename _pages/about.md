@@ -21,7 +21,7 @@ redirect_from:
 - 2021-06: Joined [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) podcast as the host! 🎙️
 - 2021-04: Finished PhD coursework with Parallelizing Compilers at UofT. Whew!
 - 2021-04: Participated in [GTC21-Spring](https://www.nvidia.com/en-us/gtc/).
-- 2020-09: Joined [Engineering Teaching and Learning Team (ETLT)](https://engineering.queensu.ca/About/teaching-and-learning/team.html) as a part-time Development Specialist.
+- 2020-09: Joined [Engineering Teaching and Learning Team (ETLT)](https://engineering.queensu.ca/About/teaching-and-learning/team.html) as a part-time Course Design and Development Specialist.
 - 2020-09: Got [Parya Scholarship](http://paryascholarship.com/).
 - 2020-07: Our work named [Ignite-GPU](https://link.springer.com/article/10.1007%2Fs11227-020-03390-z) is published!
 - 2020-01: Started PhD of Computer Engineering at Queen's University, ECE department, [PPRL group](https://www.queensu.ca/academia/afsahi/pprl/).
