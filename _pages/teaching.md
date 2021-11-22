@@ -6,7 +6,7 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-## Instructor
+## As the Course Instructor
 
 - 2016 Winter: Introduction to Object Oriented Programming with Java, Shiraz University, ICTC
 - 2013 Summer: Software Engineering Lab, Undergraduate, Shiraz University
