@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in working on various research areas mainly focused on performance optimizations in OpenMPI and UCX libraries. More specifically, improving GPU-aware communications in CUDA-enabled MPI libraries, for both _point-to-point_ and _collective_ communications and _message matching_ engine.  
+- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in working on various research areas mainly focused on performance optimizations in MPI. More specifically, improving GPU-aware communications in CUDA-enabled OpenMPI and UCX libraries, for both _point-to-point_ and _collective_ communications including _message matching_ engine.  
 - As a Software Developer, work with parallel-processing and big-data platforms and programming models (such as MPI) and have extensive knowledge in various programming languages and frameworks like  C/C++, CUDA, OpenMP, etc.
 - Possess an insatiable enthusiasm to work as a teacher in academia, and look forward to combining my passion for education with my expertise in computer science.
 
