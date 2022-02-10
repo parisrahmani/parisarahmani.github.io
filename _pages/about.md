@@ -18,6 +18,7 @@ redirect_from:
 - 2021-11: Participated in [SC21](https://sc21.supercomputing.org/).
 - 2021-11: Participated in [GTC21-fall](https://www.nvidia.com/en-us/gtc/).
 - 2021-10: Our [work](https://ieeexplore.ieee.org/abstract/document/9547041) is accepted in IEEE Symposium on High Performance Interconnects (HOTI).
+- 2021-07: Participated in [PUMPS+AI](https://pumps.bsc.es/2021/) Summer School by Barcelona Supercomputing Center
 - 2021-06: Joined [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) podcast as the host! 🎙️
 - 2021-04: Finished PhD coursework with Parallelizing Compilers at UofT. Whew!
 - 2021-04: Participated in [GTC21-Spring](https://www.nvidia.com/en-us/gtc/).
