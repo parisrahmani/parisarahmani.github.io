@@ -14,6 +14,7 @@ redirect_from:
 
 ## News
 
+- 2022-02: Our work is published in [IEEE Micro](https://ieeexplore.ieee.org/abstract/document/9705571).
 - 2021-11: The last episode of [IV@Q](https://podcast.cfrc.ca/international-voices-at-queens/) podcast at [International Education Conference at Queen's](https://www.queensu.ca/conferences/internationaleducation/conference-schedule). 😞
 - 2021-11: Participated in [SC21](https://sc21.supercomputing.org/) conference.
 - 2021-11: Participated in [GTC21-fall](https://www.nvidia.com/en-us/gtc/) conference.
