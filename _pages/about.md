@@ -14,6 +14,7 @@ redirect_from:
 
 ## News
 
+- 2022-06: Started internship at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/))
 - 2022-03: Participated in [GTC-Spring2022](https://www.nvidia.com/gtc/)
 - 2022-03: Our work is published in [IEEE Micro](https://ieeexplore.ieee.org/abstract/document/9705571).
 - 2022-03: Successfully passed Comprehensive Exam, part II.
