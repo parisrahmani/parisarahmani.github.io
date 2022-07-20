@@ -14,6 +14,7 @@ redirect_from:
 
 ## News
 
+- 2022-07: Participated in NVIDIA Deep Learning Institute (DLI) courses. ([1](https://courses.nvidia.com/certificates/f671de8f7a6f455f94401c8795ab03de/) & [2](https://courses.nvidia.com/certificates/6c8d2bfea2dc4d939252b942945730ad/)) 
 - 2022-06: Started internship at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/))
 - 2022-03: Participated in [GTC-Spring2022](https://www.nvidia.com/gtc/)
 - 2022-03: Our work is published in [IEEE Micro](https://ieeexplore.ieee.org/abstract/document/9705571).
