@@ -14,7 +14,7 @@ redirect_from:
 
 ## News
 
-- 2022-09: Joined Distributive(https://kingsds.network/) as a part-time GPU Engineer!
+- 2022-09: Joined [Distributive](https://kingsds.network/) as a part-time GPU Engineer!
 - 2022-08: Our [work](https://dl.acm.org/doi/10.1145/3555819.3555857) is accepted in EuroMPI!
 - 2022-08: Participated in NVIDIA Deep Learning Institute (DLI) courses. ([1](https://courses.nvidia.com/certificates/f671de8f7a6f455f94401c8795ab03de/) & [2](https://courses.nvidia.com/certificates/6c8d2bfea2dc4d939252b942945730ad/) & [3](https://courses.nvidia.com/certificates/fbfd1ecdac1e4a6ca8284fced2d43af6/)) 
 - 2022-06: Started internship at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/))
