@@ -1,10 +1,12 @@
 ---
 layout: archive
-permalink: /talks/
-title: "Talks & Podcasts"
-excerpt: "Talks"
+permalink: /talksAndPosts/
+title: "Talks, Posts & Podcasts"
+excerpt: "Talks and Posts"
 author_profile: true
 ---
+
+- 2023 Spring: **WebGPU For Dummies**, a medium-like [post](https://people.distributive.network/amir/WebGPU-For-Dummies.html) about WebGPU compute API as part of my work at [Distributive](https://distributive.network/)
 
 - 2021 Fall: [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) Podcast, season 1:
     - Episode 8: [Live episode](https://youtu.be/imOwe7ky4KQ), with Colette Steer, Alyssa Foerstner, and Lydia Skulstad
