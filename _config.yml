@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amir's Homepage"
+title                    : "Parisa's Homepage"
 title_separator          : "-"
-name                     : &name "AmirHossein Sojoodi"
-description              : &description "Research Assistant at Queen's University"
-url                      : https://amirsojoodi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Parisa Rahmani"
+description              : &description "Machine Learning Engineer"
+url                      : https://parisarahmani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amirsojoodi/amirsojoodi.github.io"
+repository               : "parisrahmani/parisarahmani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "AmirHossein Sojoodi"
+  name             : "Parisa Rahmani"
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Engineering at Queen's University"
+  bio              : "Machine Learning Engineer"
   location         : "Kingston, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ"
-  email            : "amir.sojoodi@gmail.com"
+  googlescholar    :
+  email            : "parisa.rahmani68@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "amirsojoodi"
+  linkedin         : "parisrahmani"
   orcid            : 
   pinterest        :
   soundcloud       :
