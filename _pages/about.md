@@ -10,7 +10,8 @@ redirect_from:
 
 - Currently, I'm leveraging my data analysis expertise to extract actionable insights from complex datasets and enhance decision-making.
 - I've previously contributed to various projects, applying my analytical skills to improve data quality, develop data-driven strategies, and create insightful visualizations.
-- With advanced proficiency in Python, and SQL, and a strong mathematical background, I possess a passion for data and transforming it into a variable insights.
+- With advanced proficiency in Python, and SQL, and a strong mathematical background, I possess a passion for data and transforming it into variable insights.
+- My CV can be obtained from [here](https://parisrahmani.github.io/files/ParisaRahmani-CV.pdf)
 
 ## News
 
